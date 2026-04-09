@@ -42,7 +42,7 @@ A modern, minimal, and interactive calendar web app that lets users manage event
 ---
 ## 📂 Project Structure
 
-
+```
 src/
 │── components/
 │ ├── Calendar.jsx
@@ -55,6 +55,7 @@ src/
 │── App.jsx
 │── main.jsx
 ---
+```
 ---
 
 ## 🚀 Getting Started
